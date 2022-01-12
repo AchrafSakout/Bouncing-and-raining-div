@@ -3,7 +3,7 @@ This is a JavaScript code to practice some functionality
 
 
 - ## Bouncing div side to side
-The brown div will bounce infenitly inside the tomato (red) dev
+The brown div will bounce infinity inside the tomato (red) div
 
 - ## drops
 Some dotes will fall down like rain, to increase the number of dotes :
