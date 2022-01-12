@@ -1,11 +1,11 @@
-#Bouncing div side to side with drops 
+# Bouncing div side to side with drops 
 This is a JavaScript code to practice some functionality
 
 
-- ##Bouncing div side to side
+- ## Bouncing div side to side
 The brown div will bounce infenitly inside the tomato (red) dev
 
-- ##drops
+- ## drops
 Some dotes will fall down like rain, to increase the number of dotes :
 change this line:
 ```
