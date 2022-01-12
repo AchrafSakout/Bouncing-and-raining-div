@@ -25,10 +25,10 @@ function timer() {
 the higher the number, the more dots you will get.
 
 ## screenshots
-![Sample](pictures/simple.png)
-![Sample2](pictures/simple2.png)
+![Sample](pictures/sample.png)
+![Sample2](pictures/sample2.png)
 When GameOver
-![Sample3](pictures/simple3.png)
+![Sample3](pictures/sample3.png)
 
 
 If you found that useful, don't forget to give a ⭐ *Good luck*
